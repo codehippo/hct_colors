@@ -1,0 +1,17 @@
+name: drmax_colors
+description: A sample command-line application.
+version: 1.0.0
+# homepage: https://www.example.com
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  material_color_utilities: ^0.8.0
+  more: ^4.0.1
+  csv: ^5.0.2
+  path: ^1.8.3
+  excel: ^3.0.0
+
+dev_dependencies:
+  flutter_lints: ^3.0.0
